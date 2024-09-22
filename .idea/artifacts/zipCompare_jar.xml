@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zipCompare:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="zipCompare.jar">
+      <element id="module-output" name="zipCompare" />
+    </root>
+  </artifact>
+</component>
